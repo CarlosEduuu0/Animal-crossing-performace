@@ -302,13 +302,14 @@ CrossValidator(
 - ✅ Normalização de features categóricas
 
 ---
-📚 Referências e Documentação
+## 📚 Referências e Documentação
 
-Animal Crossing Wiki
-PySpark Documentation
-MLflow Documentation
-XGBoost Documentation
-Scikit-Learn Documentation
+- [Animal Crossing Wiki](https://animalcrossing.fandom.com/)
+- [PySpark Documentation](https://spark.apache.org/docs/latest/api/python/)
+- [MLflow Documentation](https://mlflow.org/docs/latest/)
+- [XGBoost Documentation](https://xgboost.readthedocs.io/)
+- [Scikit-Learn Documentation](https://scikit-learn.org/)
+
 ----
 ## 📝 Exemplo de Uso
 
