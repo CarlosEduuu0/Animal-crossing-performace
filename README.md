@@ -302,10 +302,18 @@ CrossValidator(
 - ✅ Normalização de features categóricas
 
 ---
+📚 Referências e Documentação
 
+Animal Crossing Wiki
+PySpark Documentation
+MLflow Documentation
+XGBoost Documentation
+Scikit-Learn Documentation
+----
 ## 📝 Exemplo de Uso
 
 ### Fazer Predições
+
 
 ```python
 # Exemplo de novo peixe
