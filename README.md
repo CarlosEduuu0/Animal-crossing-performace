@@ -1,6 +1,6 @@
 # 🎮 Animal Crossing: Análise de Dados e Modelos de Machine Learning
 
-> Um projeto abrangente de análise de dados e machine learning sobre **peixes**, **vilarejos** e fatores que afetam seus **preços** no jogo **Animal Crossing**.
+> Um projeto abrangente de análise de dados e machine learning sobre **peixes**, **habitante**  no jogo **Animal Crossing**.
 
 ![Animal Crossing](https://img.shields.io/badge/Game-Animal%20Crossing-brightgreen)
 ![PySpark](https://img.shields.io/badge/Framework-PySpark-orange)
